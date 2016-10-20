@@ -32,7 +32,7 @@
 
 ###使用方法
 1.  Android 手机一部，登录微信账号
-2.  安装辅助软件apk下载地址请点击[这里](http://www.github.com)
+2.  安装辅助软件apk下载地址请点击[这里](https://raw.githubusercontent.com/wlj32011/InspectWechatFriend/master/app-release.apk)
 3.  打开辅助软件-点击打开辅助功能按钮，跳转到无障碍辅助设置把辅助开关打开。
 4.  点击开始检查按钮，开始一系列的模拟点击，检查完成后会跳转到一个列表会把被删好友列表展示出来。
 
@@ -451,13 +451,15 @@ $uiautomatorviewer
 ![Paste_Image.png](http://upload-images.jianshu.io/upload_images/2326742-13f5c0dd0fbecd16.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
-项目源码github地址：
+项目源码github地址：https://github.com/wlj32011/InspectWechatFriend
 
 支持原创，拒绝盗窃，如果此文章帮助到了你，就打赏一下吧~~~
 
 微信号：wlj3203  
 Android技术交流QQ群：10908959   欢迎加入
+
 博客地址:http://www.jianshu.com/users/67db2debac96/latest_articles
+
 声明：此项目请不要用于商业用途，若有侵权，均与本人无关~
 
 
